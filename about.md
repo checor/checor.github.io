@@ -2,14 +2,15 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Greetings, I’m Sergio Iván. I’m a software engineer living in Mexico City. I am a fan of technology, reading, and programming. I’m also interested in DIY and video games.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Currently working at YoAmoMedia as a Full Stack Developer. My main programming languages are Python, C++, and JS.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[sergio.urbina@outlook.com](mailto:sergio.urbina@outlook.com)
