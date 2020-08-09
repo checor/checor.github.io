@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-excerpt: Qt no es sólamente un framework, si estás trabajando en C++ y deseas tener una vida más fácil, Qt es El framework.
+excerpt: "![Qt Framework]({{site.baseurl}}/images/qt.png) Qt no es sólamente un framework, si estás trabajando en C++ y deseas tener una vida más fácil, Qt es El framework."
 title: 10 razones para utilizar Qt
 ---
 ![Qt Framework]({{site.baseurl}}/images/qt.png)
