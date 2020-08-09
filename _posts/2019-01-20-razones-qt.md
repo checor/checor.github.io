@@ -1,12 +1,14 @@
 ---
 layout: post
 published: true
-excerpt: "![Qt Framework]({{site.baseurl}}/images/qt.png) Qt no es sólamente un framework, si estás trabajando en C++ y deseas tener una vida más fácil, Qt es El framework."
 title: 10 razones para utilizar Qt
+excerpt_separator: <!--more-->
 ---
 ![Qt Framework]({{site.baseurl}}/images/qt.png)
 
 Qt no es sólamente un framework, si estás trabajando en C++ y deseas tener una vida más fácil, Qt es El framework.
+
+<!--more-->
 
 Mi primer conocimiento del framework fue cercano al 2006, cuando el debate entre GNOME 2 y KDE estaban en pleno apogeo, sobre cual de los 2 era el mejor. Sin embargo, los toolkits con los que están creados, GTK+ y Qt, persiguen objetivos diferentes.
 
