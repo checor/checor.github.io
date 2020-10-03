@@ -9,7 +9,7 @@ Greetings, I’m Sergio Iván. I’m a software engineer living in Mexico City. 
 
 ### More Information
 
-Currently working at Bedu as a Back End Developer, where apart from programming, I teach others to learn Python for web development and data science.
+Currently working at Bedu as a Back End Developer, where aside from programming, I teach others to learn Python for web development and data science.
 
 My main programming languages are Python, C++, and JS.
 
