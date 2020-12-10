@@ -9,7 +9,7 @@ excerpt_separator: <!--more-->
 
 [Código fuente](https://github.com/checor/mi-ubicacion)
 
-Revisando mis repositorios en Github (y fotos antiguas), recordé que en 2017 escribí una pequeña web para ubicarnos entre los 25,000 asistentes del Campus Party México 2017, el evento de tecnología mas grande en su tiempo, del país.
+Revisando mis repositorios en Github (y fotos antiguas), recordé que en 2017 escribí una pequeña web para ubicarnos entre los 25,000 asistentes del Campus Party México 2017, en su tiempo, el evento de tecnología mas grande del país.
 
 En este post explicaré un poco acerca del funcionamiento y del problema a resolver.
 
